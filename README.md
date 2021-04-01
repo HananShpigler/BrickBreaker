@@ -1,2 +1,10 @@
 # BrickBreaker
-HTML, CSS and JavaScript in order to create a 2D Brick Breaker game.
+Simple 2D Brick Breaker.
+
+## Instructions
+- Move the paddle with the mouse to "catch" the ball and break the bricks.
+
+## Getting Started
+Just click on the link below 👇, enjoy !
+
+⚽  ⚽
